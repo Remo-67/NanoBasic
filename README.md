@@ -10,3 +10,6 @@ Nanocomputer schematic
 ![Model](https://github.com/Remo-67/NanoBasic/blob/main/photos/Schematic_touch-tft-for-Arduino-Nano-03_2024-08-08.png)
 <br>
 more information at : https://it.emcelettronica.com/nanobasic-un-interprete-basic-per-arduino-nano-every
+
+<br>
+remo.riglioni@alice.it
